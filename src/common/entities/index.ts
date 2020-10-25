@@ -1,0 +1,1 @@
+export { TblMovie } from './TblMovie';

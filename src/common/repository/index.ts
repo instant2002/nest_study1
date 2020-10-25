@@ -1,0 +1,1 @@
+export { MovieRepository } from './product-color.repository'
